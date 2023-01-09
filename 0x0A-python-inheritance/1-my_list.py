@@ -1,14 +1,10 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+"""This module inherits from the list class"""
+
 
 class MyList(list):
-    """
-     class MyList that inherits from list
-    """
+    """A class that inherits from list"""
     def print_sorted(self):
-        """
-        Public instance method that prints sorted list
-        """
-        list_copy = self[:]
-        list_copy.sort()
-        print(list_copy)
+        """prints a sorted list"""
+        print(sorted(self))
+        
