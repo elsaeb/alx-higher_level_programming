@@ -1,0 +1,1 @@
+first project on javascript. 0x12/js warm_up
