@@ -7,7 +7,6 @@ function rec(x){
 	return (rec(x-1)*x);
     }
 }
-
 const x = Number(process.argv[2]);
 if(x) {
     const result = rec(x);

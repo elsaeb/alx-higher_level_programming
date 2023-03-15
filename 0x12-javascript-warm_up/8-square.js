@@ -16,4 +16,3 @@ if(Number(process.argv[2])){
 else {  
  console.log("Missing size");
 }
-
