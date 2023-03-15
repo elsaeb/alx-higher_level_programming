@@ -1,0 +1,6 @@
+#!/usr/bin/node
+if(process.argv[2] === 1){
+    return(0);
+}else
+{
+    if()

@@ -1,0 +1,8 @@
+#!/usr/bin/node
+if(Number(process.argv[2])){
+    function recurse(x){
+	x =x*(x-1)
+	recurse(x-1);
+	console.log(x);
+    }else {
+	console.log(1);
