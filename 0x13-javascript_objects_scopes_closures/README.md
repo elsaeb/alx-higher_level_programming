@@ -1,0 +1,1 @@
+mandatory tasks on project objects and class 

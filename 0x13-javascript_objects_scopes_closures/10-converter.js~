@@ -1,0 +1,2 @@
+exports.converter = function(base){
+    myConverter.toString(base)}
