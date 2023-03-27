@@ -1,1 +1,1 @@
-mandatory tasks on project objects and class 
+ project on js objects and classes .
